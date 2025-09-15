@@ -6,6 +6,6 @@
 These notes are a summary from the above book. I highly recommend to read the book and go over the notes if you are intrested in experimentation and give a huge shoutout to the authors
 
 # Contents
-- [1. Introduction and Terminology](Experimentation/Trustworthy-Online-Controlled-Experiments/Chapter1.md)
-- [2. Running and Analyzing Experiment](Experimentation/Trustworthy-Online-Controlled-Experiments/Chapter2.md)
-- [3. Twyman’s Law & Experimentation Trustworthiness](Experimentation/Trustworthy-Online-Controlled-Experiments/Chapter3.md)
+- [1. Introduction and Terminology](Chapter1.md)
+- [2. Running and Analyzing Experiment](Chapter2.md)
+- [3. Twyman’s Law & Experimentation Trustworthiness](Chapter3.md)
